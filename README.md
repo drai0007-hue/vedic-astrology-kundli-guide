@@ -158,3 +158,24 @@ Mesh, Vrishabh, Mithun, Kark, Simha, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh
 2. Complete Hashnode login and publish article
 3. Submit to Gartner Digital Markets (GetApp/Capterra free listing)
 4. Monitor GSC indexing status in 48-72 hours
+
+
+### June 20, 2026 (12 AM IST) — Dev Fix Confirmed
+**Internal Linking Fix Deployed by Dev Team:**
+- ✅ /about page now linked from homepage (https://bhagya.ai) and /match page
+- ✅ /blog/what-is-my-rashi-by-date-of-birth linked from /match page
+- ✅ Both pages verified live and rendering correctly
+
+**GSC Crawl Status — Immediate Impact (within 3 hours of fix):**
+| URL | Before Fix | After Fix | Last Crawl |
+|-----|-----------|-----------|------------|
+| /about | Unknown to Google | Crawled - not indexed | Jun 19, 9:13 PM |
+| /blog/what-is-my-rashi-by-date-of-birth | Unknown to Google | Crawled - not indexed | Jun 19, 9:31 PM |
+
+**Actions Taken (Jun 20, 12 AM):**
+- ✅ Re-requested priority indexing for /about (Googlebot smartphone crawled it tonight)
+- ✅ Re-requested priority indexing for /blog/what-is-my-rashi-by-date-of-birth
+- ✅ Sitemap confirmed complete — all blog pages + /about already present
+- ⚠️ Stale note removed: Line 148 key insight was incorrect — /about IS in sitemap
+
+**Verdict:** Dev fix worked perfectly. Google discovered and crawled both pages within ~2 hours of the internal link being added. Indexing expected within 24-72 hours via priority queue.
