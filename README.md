@@ -121,3 +121,40 @@ Mesh, Vrishabh, Mithun, Kark, Simha, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh
 - https://bhagya.ai/dasha-calculator — Vimshottari Dasha
 - https://bhagya.ai/rashifal — Daily Rashifal
 - https://bhagya.ai/chat — AI Astrology Chat
+
+
+---
+
+## SEO Progress Log
+
+### June 19, 2026
+**GSC Indexing Actions:**
+- ✅ Resubmitted /sitemap.xml (160 pages discovered) — refreshed crawl signal
+- ✅ Resubmitted /hi/sitemap.xml (40 pages discovered) — refreshed crawl signal
+- ✅ Requested indexing for 10 "Discovered - currently not indexed" pages:
+  - /blog (hub page)
+  - /about (unknown to Google — no sitemap reference found)
+  - /blog/free-kundli-in-hindi
+  - /blog/how-does-kundli-matching-work
+  - /blog/how-to-get-free-kundli-online
+  - /blog/is-ai-kundli-accurate
+  - /blog/kundli-by-name-and-date-of-birth
+  - /blog/mangal-dosha-in-kundli
+  - /blog/what-is-ashtakoot-milan
+  - /blog/what-is-my-rashi-by-date-of-birth
+- ℹ️ /blog/what-is-sade-sati — Already indexed (confirmed via URL Inspection)
+- ⚠️ 32 pages total still in "Discovered - currently not indexed" — remaining pages need crawl budget increase
+
+**Key Insight:** /about page missing from sitemap.xml — recommend adding it to sitemap manually
+
+**Backlink Status:**
+- dev.to article published — dofollow backlink to bhagya.ai
+- Crunchbase profile created — backlink active
+- Hashnode: Login required — pending user authentication
+- AlternativeTo: Login required — pending submission
+
+**Next Actions:**
+1. Add /about and all blog pages to sitemap.xml explicitly
+2. Complete Hashnode login and publish article
+3. Submit to Gartner Digital Markets (GetApp/Capterra free listing)
+4. Monitor GSC indexing status in 48-72 hours
