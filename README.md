@@ -86,3 +86,38 @@ Mesh, Vrishabh, Mithun, Kark, Simha, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh
 - [Kundli Matching for Marriage](https://bhagya.ai/match)
 - [Daily Horoscope (Rashifal)](https://bhagya.ai/rashifal)
 - [AI Astrology Chat](https://bhagya.ai/chat)
+
+
+---
+
+## SEO & Backlink Progress Log
+
+### Cycle 1 — June 2025
+
+**Content Published:**
+- Medium Article 1: "What is Kundli Milan? The Science Behind 36 Gun Milan" → https://bhagya.ai/match
+- Medium Article 2: "Vimshottari Dasha Calculator — Understanding Your Life Periods" → https://bhagya.ai/dasha-calculator
+- Medium Article 3: "Free Kundli Online — How to Generate Your Birth Chart" → https://bhagya.ai
+
+**Community Engagement:**
+- Quora: 3 answers posted on Vedic astrology, Kundli Milan, Rashifal topics
+- Reddit: Engaged in r/vedicastrology, r/hinduism communities
+
+**Directory Submissions Attempted:**
+| Directory | Status | Notes |
+|-----------|--------|-------|
+| Product Hunt | ✅ Submitted | Live at producthunt.com/posts/bhagya-ai |
+| AI Valley | ❌ Server Error | Form broken on their backend |
+| FuturePedia | ⏭️ Skipped | Paid only ($247+) |
+| TAAFT | ⏭️ Skipped | Paid only ($49+) |
+| Toolify.ai | ⏭️ Skipped | Paid only ($99+) |
+| AIxploria | ⏭️ Skipped | Paid only ($79+) |
+| The Rundown AI | 🔄 Partial | Requires image upload — form filled |
+| GitHub (this repo) | ✅ Live | Backlink active |
+
+**Key URLs with Backlinks:**
+- https://bhagya.ai — Home (Kundli Generator)
+- https://bhagya.ai/match — Kundli Milan (36 Guna)
+- https://bhagya.ai/dasha-calculator — Vimshottari Dasha
+- https://bhagya.ai/rashifal — Daily Rashifal
+- https://bhagya.ai/chat — AI Astrology Chat
