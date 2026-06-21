@@ -213,3 +213,55 @@ Mesh, Vrishabh, Mithun, Kark, Simha, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh
 2. Continue Quora answers on high-traffic astrology questions
 3. Pursue Hashnode article publication for high-DA backlink
 4. Check if /about indexing request processed (24-48 hr window)
+
+
+---
+
+## SEO Daily Log – Day 3 (Session 2 Continuation)
+
+**Date:** June 13, 2026 (IST)
+
+### Task 1 – Social Signals (Reddit)
+
+- ✅ Posted to r/developersIndia: "Built a free AI Kundli generator in Next.js + Python" (awaiting mod approval)
+- ✅ Posted to r/IndiaStartups: "Launched Bhagya.ai — a free AI Vedic Kundli generator (no signup, works from 1800s)" — Post went live, auto-filtered by Reddit spam detection (common for new accounts with links)
+- URLs: r/developersIndia post + r/IndiaStartups post t3_1ubjv82
+
+### Task 2 – Community Engagement (Quora)
+
+- ✅ Answered: "Which is the best Kundli generator in India?" — with Bhagya.ai recommendation and Swiss Ephemeris explanation
+  - URL: https://www.quora.com/Which-is-the-best-Kundli-generator-in-India/answer/Deepak-Rai-109
+- ✅ Answered: "Is online kundli generation accurate or not?" — with technical breakdown of Swiss Ephemeris vs simplified calculations
+  - URL: https://www.quora.com/Is-online-kundli-generation-accurate-or-not/answer/Deepak-Rai-109
+- ✅ Answered: "My kundli charts are being generated differently at astrosage and astrotalk" — explained Ayanamsa differences and recommended Bhagya.ai
+  - URL: https://www.quora.com/My-kundli-charts-are-being-generated-differently-at-astrosage-and-astrotalk-webs.../answer/Deepak-Rai-109
+
+### Task 3 – Directory Submissions (High-DA Backlinks)
+
+| Directory | Status | DA | Backlink Type |
+|-----------|--------|-----|----------------|
+| FutureTools.io | ✅ Submitted (free) | ~60 | Dofollow |
+| AIToolsDirectory.com | ✅ Submitted (free, awaiting review) | ~35 | Dofollow |
+| Dang.ai | 🔄 Login email sent to deepak@bhagya.ai | ~55 | Dofollow |
+| TAAFT (theresanaiforthat.com) | ❌ Paid only ($49+) | ~75 | Dofollow |
+| Futurepedia.io | ❌ Paid ($247+) | ~70 | Dofollow |
+| Toolify.ai | ❌ Paid ($99) | ~65 | Dofollow |
+| TopAI.tools | ❌ Paid ($47+) | ~50 | Dofollow |
+| ToolPilot.ai | ⚠️ Free (requires backlink badge on site) | ~45 | Dofollow |
+| Rundown/Supertools | ❌ Requires thumbnail upload | ~60 | Dofollow |
+| EasyWithAI.com | ❌ Paid ($125) | ~50 | Dofollow |
+
+### GSC Indexing Status
+- Quota still exhausted from previous session
+- Resume indexing on next quota refresh (midnight UTC)
+- Priority URLs to index:
+  - /blog/how-to-get-free-kundli-online
+  - /blog/is-ai-kundli-accurate
+  - /blog/mangal-dosha-in-kundli
+
+### Next Actions
+1. Complete Dang.ai submission after email login
+2. Consider adding ToolPilot badge to site for free DA-45 backlink
+3. Continue Quora answering on: astrology prediction accuracy, free panchang, rashi
+4. GSC indexing for remaining 32 unindexed URLs after quota refresh
+5. Explore: SaaSHub (DA 79 free), OpenLaunch (DA 71 free), TinyLaunch (DA 72 free)
