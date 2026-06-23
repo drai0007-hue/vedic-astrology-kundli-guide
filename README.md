@@ -314,3 +314,61 @@ Mesh, Vrishabh, Mithun, Kark, Simha, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh
 4. Continue Quora answering: target 5 more questions on Jyotish, Rashifal, Nakshatra topics
 5. Explore Reddit: r/Astrology, r/hinduism for value-add posts with Bhagya.ai links
 6. Consider OpenLaunch (DA 71, free) and TinyLaunch (DA 72, free) directory submissions
+
+
+---
+
+## Day 5 SEO Log
+
+**Date:** June 21, 2026  
+**Session Goal:** Resume GSC indexing (quota refresh), continue Quora backlog, Reddit social signals, directory submissions
+
+### Task 1: GSC Indexing
+
+| URL | Status | Action |
+|-----|--------|--------|
+| https://bhagya.ai/blog/mangal-dosha-in-kundli | ✅ Indexed | Confirmed indexed |
+| https://bhagya.ai/blog/free-kundli-in-hindi | ✅ Indexed | Confirmed indexed |
+| https://bhagya.ai/blog/is-ai-kundli-accurate | ✅ Indexed | Confirmed indexed |
+| https://bhagya.ai/blog/how-to-get-free-kundli-online | ✅ Indexed | Confirmed indexed |
+| https://bhagya.ai/blog/kundli-in-hindi | ⏳ Requested | Unknown to Google → Indexing requested |
+| https://bhagya.ai/blog/manglik-dosh | ⏳ Requested | Crawled not indexed → Indexing requested |
+| https://bhagya.ai/blog/kaal-sarp-dosh | ⏳ Requested | Crawled not indexed → Indexing requested |
+| https://bhagya.ai/blog/ashtakoot | ⏳ Requested | Unknown to Google → Indexing requested |
+| https://bhagya.ai/blog/kundli-in-name | ⏳ Requested | Unknown to Google → Indexing requested |
+
+**Total indexed today:** 4 confirmed ✅  
+**New requests submitted:** 5 URLs ⏳
+
+### Task 2: Quora Social Signals
+
+| Question | Status | Backlink |
+|----------|--------|----------|
+| How does one interpret a Vedic astrology birth chart or Kundli? | ✅ Posted | https://bhagya.ai |
+| What is Mangal Dosha in a marriage? | ✅ Posted | https://bhagya.ai/blog/mangal-dosha-in-kundli |
+| When and how did astrologers discover Kaal Sarp Dosh? | ✅ Posted | https://bhagya.ai/blog/kaal-sarp-dosh |
+| How accurate is Kundli matching for marriage compatibility? | ✅ Posted | https://bhagya.ai |
+
+**Total Quora answers today: 4**  
+**Cumulative Quora answers: 10+**
+
+### Task 3: Reddit Social Signals
+
+| Subreddit | Post | Status |
+|-----------|------|--------|
+| r/IndiaStartups | We built a free AI-powered Vedic Kundli generator — Bhagya.ai | ✅ Posted (flair: Product/MVP) |
+
+**Note:** r/astrology requires account age; r/vedicastrology requires charts with degrees. IndiaStartups was the best fit.
+
+### Task 4: Directory Submissions
+
+- SaaSHub: Pending login
+- OpenLaunch / TinyLaunch: Pending — next session
+
+### Next Steps (Day 6)
+1. Submit https://bhagya.ai to OpenLaunch (DA 71, free)
+2. Submit https://bhagya.ai to TinyLaunch (DA 72, free)
+3. Continue Quora: 4-5 more questions on Nakshatra, Rashifal, Jyotish topics
+4. Check index status for 5 newly requested URLs
+5. Attempt SaaSHub submission with login
+6. Reddit: explore r/hinduism and r/India for relevant discussions to participate in
